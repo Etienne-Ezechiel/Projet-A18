@@ -16,6 +16,7 @@ public class AppCtr {
      */
     public static void main(String[] args) {
         System.out.println("Salut l'équipe!!!!!!!!!!!!!!!!1111");
+         System.out.println("Salut l'équipe message choukri");
     }
     
 }
